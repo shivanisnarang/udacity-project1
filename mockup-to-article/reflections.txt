@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+* Learnt about the new tags (superscript, strikethrough etc) and their implementation.
+* The way the prior content was presented, it made it easier for me to implement the things which i had learnt in the videos.
+* Nothing really so far.
+* Wherever i got stuck, i referred the mozilla documentation to pass through it.
